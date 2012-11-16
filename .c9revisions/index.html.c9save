@@ -84,3 +84,12 @@
 {"ts":1353020342762,"patch":[[{"diffs":[[0," class=\""],[1,"box"],[0,"\">\n     "]],"start1":200,"start2":200,"length1":16,"length2":19}]],"length":367,"saved":false}
 {"ts":1353020373075,"patch":[[{"diffs":[[0,"ass=\"box"],[1," blue"],[0,"\">\n     "]],"start1":203,"start2":203,"length1":16,"length2":21}]],"length":372,"saved":false}
 {"ts":1353020395330,"patch":[[{"diffs":[[0,"box "],[-1,"blue"],[1,"red"],[0,"\">\n "]],"start1":208,"start2":208,"length1":12,"length2":11}]],"length":371,"saved":false}
+{"ts":1353021805428,"patch":[[{"diffs":[[0,"    "],[-1,"Visita Coderise aquí"],[1,"<img src='coderise.jpg'/>"],[0,"\n   "]],"start1":307,"start2":307,"length1":28,"length2":33}]],"length":376,"saved":false}
+{"ts":1353021885196,"patch":[[{"diffs":[[0,"mg src='"],[-1,"c"],[1,"C"],[0,"oderise."]],"start1":313,"start2":313,"length1":17,"length2":17}]],"length":376,"saved":false}
+{"ts":1353021972469,"patch":[[{"diffs":[[0," <title>"],[1," <img src='Coderise.jpg' width= 20'/>"],[0,"Coderise"]],"start1":64,"start2":64,"length1":16,"length2":53}]],"length":413,"saved":false}
+{"ts":1353021994227,"patch":[[{"diffs":[[0,"idth= 20"],[-1,"'"],[0,"/>Coderi"]],"start1":98,"start2":98,"length1":17,"length2":16}]],"length":412,"saved":false}
+{"ts":1353022044319,"patch":[[{"diffs":[[0,"le> "],[-1,"<img src='Coderise.jpg' width= 20/>"],[0,"Code"]],"start1":69,"start2":69,"length1":43,"length2":8},{"diffs":[[0,"ise.jpg'"],[1," width='100'"],[0,"/>\n     "]],"start1":327,"start2":327,"length1":16,"length2":28}]],"length":389,"saved":false}
+{"ts":1353022087350,"patch":[[{"diffs":[[0,"box "],[-1,"red"],[1,"blue"],[0,"\">\n "]],"start1":209,"start2":209,"length1":11,"length2":12},{"diffs":[[0,"    "],[-1,"<strong>Coderise</strong>"],[0,"\n   "]],"start1":222,"start2":222,"length1":33,"length2":8}]],"length":365,"saved":false}
+{"ts":1353022371541,"patch":[[{"diffs":[[0,"css\" />\n"],[1,"    <link rel='icon' href='favicon.png'>\n"],[0,"  </head"]],"start1":154,"start2":154,"length1":16,"length2":57}]],"length":406,"saved":false}
+{"ts":1353022424980,"patch":[[{"diffs":[[0,". Create"],[1,"\n     <link rel='icon' href='favicon.png'>"],[0,"</title>"]],"start1":98,"start2":98,"length1":16,"length2":58}]],"length":448,"saved":false}
+{"ts":1353022494870,"patch":[[{"diffs":[[0,"eate"],[-1,"\n     <link rel='icon' href='favicon.png'>"],[0,"</ti"]],"start1":102,"start2":102,"length1":50,"length2":8},{"diffs":[[0,"l='icon'"],[1,"  type='imagen/png'"],[0," href='f"]],"start1":174,"start2":174,"length1":16,"length2":35}]],"length":425,"saved":false}
